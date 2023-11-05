@@ -4,3 +4,6 @@
     left: 200px; /* Adjust to your desired horizontal position */
   }
   
+  div#hero-txt h5 {
+    color: #DF6951;
+  }
